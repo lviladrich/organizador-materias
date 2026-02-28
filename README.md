@@ -10,12 +10,12 @@ Una web que organiza tu trayectoria académica. Cargás tus materias aprobadas y
 
 ## ¿Qué hace?
 
-- ✅ **Seguimiento de materias** — marcás las que aprobaste y el sistema actualiza todo automáticamente
-- 🔓 **Materias disponibles** — muestra exactamente qué podés cursar ahora según tus correlativas
-- 🎯 **Camino crítico** — calcula qué materias priorizar para recibirte lo antes posible
-- 📅 **Simulador de egreso** — elegís cuándo querés recibirte y te genera un plan cuatrimestre a cuatrimestre
-- 🕸️ **Grafo de dependencias** — visualización interactiva de todas las correlativas de la carrera
-- 💾 **Persistencia local** — tu progreso se guarda automáticamente en el navegador
+- **Seguimiento de materias** — marcás las que aprobaste y el sistema actualiza todo automáticamente
+- **Materias disponibles** — muestra exactamente qué podés cursar ahora según tus correlativas
+- **Camino crítico** — calcula qué materias priorizar para recibirte lo antes posible
+- **Simulador de egreso** — elegís cuándo querés recibirte y te genera un plan cuatrimestre a cuatrimestre
+- **Grafo de dependencias** — visualización interactiva de todas las correlativas de la carrera
+- **Persistencia local** — tu progreso se guarda automáticamente en el navegador
 
 ---
 
