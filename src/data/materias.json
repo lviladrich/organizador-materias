@@ -1,0 +1,528 @@
+{
+  "carrera": "Licenciatura en Gestion de Tecnologia de la Informacion",
+  "plan": "13121",
+  "anio_plan": "2021",
+  "total_materias": 41,
+  "materias": [
+    {
+      "codigo": "3.4.225",
+      "nombre": "Introducción a la Algoritmia",
+      "anio": "1° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.227",
+          "nombre": "Algoritmos Y Estructuras De Datos I"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.164",
+      "nombre": "Sistemas de Información I",
+      "anio": "1° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.207",
+          "nombre": "Sistemas De Información Ii"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.072",
+      "nombre": "Arquitectura de Computadores",
+      "anio": "1° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.075",
+          "nombre": "Sistemas Operativos"
+        }
+      ]
+    },
+    {
+      "codigo": "1.2.001",
+      "nombre": "Marketing",
+      "anio": "1° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.226",
+      "nombre": "Diseño y Desarrollo web",
+      "anio": "1° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.227",
+      "nombre": "Algoritmos y Estructuras de Datos I",
+      "anio": "1° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.225",
+          "nombre": "Introducción A La Algoritmia"
+        }
+      ],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.229",
+          "nombre": "Algoritmos Y Estructuras De Datos Ii"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.207",
+      "nombre": "Sistemas de Información II",
+      "anio": "1° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.164",
+          "nombre": "Sistemas De Información I"
+        }
+      ],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.142",
+          "nombre": "Dirección De Proyectos De Tecnología"
+        },
+        {
+          "codigo": "3.4.214",
+          "nombre": "Ingeniería De Software"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.075",
+      "nombre": "Sistemas Operativos",
+      "anio": "1° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.072",
+          "nombre": "Arquitectura De Computadores"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.1.024",
+      "nombre": "Matemática Discreta",
+      "anio": "1° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.209",
+          "nombre": "Ingeniería De Datos I"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.228",
+      "nombre": "Testing de Aplicaciones",
+      "anio": "1° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.229",
+      "nombre": "Algoritmos y Estructuras de Datos II",
+      "anio": "2° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.227",
+          "nombre": "Algoritmos Y Estructuras De Datos I"
+        }
+      ],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.231",
+          "nombre": "Diseño Y Análisis De Algoritmos"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.208",
+      "nombre": "Paradigma Orientado a Objetos",
+      "anio": "2° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.082",
+          "nombre": "Aplicaciones Interactivas"
+        },
+        {
+          "codigo": "3.4.210",
+          "nombre": "Proceso De Desarrollo De Software"
+        },
+        {
+          "codigo": "3.4.233",
+          "nombre": "Seminario De Gestión De Tecnología"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.230",
+      "nombre": "Redes de Datos",
+      "anio": "2° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.092",
+          "nombre": "Seguridad E Integridad De La Información"
+        }
+      ]
+    },
+    {
+      "codigo": "1.4.076",
+      "nombre": "Fundamentos de Economía",
+      "anio": "2° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.131",
+      "nombre": "Gestión de Personas en Organizaciones de Tecnología",
+      "anio": "2° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.231",
+      "nombre": "Diseño y Análisis de Algoritmos",
+      "anio": "2° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.229",
+          "nombre": "Algoritmos Y Estructuras De Datos Ii"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.142",
+      "nombre": "Dirección de Proyectos de Tecnología",
+      "anio": "2° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.207",
+          "nombre": "Sistemas De Información Ii"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.209",
+      "nombre": "Ingeniería de Datos I",
+      "anio": "2° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.1.024",
+          "nombre": "Matemática Discreta"
+        }
+      ],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.213",
+          "nombre": "Ingeniería De Datos Ii"
+        },
+        {
+          "codigo": "3.4.217",
+          "nombre": "Ciencia De Datos"
+        },
+        {
+          "codigo": "3.4.233",
+          "nombre": "Seminario De Gestión De Tecnología"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.214",
+      "nombre": "Ingeniería de Software",
+      "anio": "2° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.207",
+          "nombre": "Sistemas De Información Ii"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "1.1.093",
+      "nombre": "Liderazgo y Negociación",
+      "anio": "2° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "1",
+      "nombre": "Optativa I",
+      "anio": "3° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.082",
+      "nombre": "Aplicaciones Interactivas",
+      "anio": "3° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.208",
+          "nombre": "Paradigma Orientado A Objetos"
+        }
+      ],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.216",
+          "nombre": "Desarrollo De Aplicaciones I"
+        },
+        {
+          "codigo": "3.4.218",
+          "nombre": "Desarrollo De Aplicaciones Ii"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.210",
+      "nombre": "Proceso de Desarrollo de Software",
+      "anio": "3° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.208",
+          "nombre": "Paradigma Orientado A Objetos"
+        }
+      ],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.4.141",
+          "nombre": "Seguridad De Procesos Y Aplicaciones"
+        }
+      ]
+    },
+    {
+      "codigo": "3.4.092",
+      "nombre": "Seguridad e Integridad de la Información",
+      "anio": "3° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.230",
+          "nombre": "Redes De Datos"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.1.049",
+      "nombre": "Probabilidad y Estadística",
+      "anio": "3° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": [
+        {
+          "codigo": "3.1.056",
+          "nombre": "Estadística Avanzada"
+        },
+        {
+          "codigo": "3.4.139",
+          "nombre": "Evaluación De Proyectos De Tecnología"
+        }
+      ]
+    },
+    {
+      "codigo": "2.4.216",
+      "nombre": "Examen de Inglés",
+      "anio": "3° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "2",
+      "nombre": "Optativa II",
+      "anio": "3° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.233",
+      "nombre": "Seminario de Gestión de Tecnología",
+      "anio": "3° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.208",
+          "nombre": "Paradigma Orientado A Objetos"
+        },
+        {
+          "codigo": "3.4.209",
+          "nombre": "Ingeniería De Datos I"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.213",
+      "nombre": "Ingeniería de Datos II",
+      "anio": "3° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.209",
+          "nombre": "Ingeniería De Datos I"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.139",
+      "nombre": "Evaluación de Proyectos de Tecnología",
+      "anio": "3° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.1.049",
+          "nombre": "Probabilidad Y Estadística"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.1.056",
+      "nombre": "Estadística Avanzada",
+      "anio": "3° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.1.049",
+          "nombre": "Probabilidad Y Estadística"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3",
+      "nombre": "Optativa III",
+      "anio": "4° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.216",
+      "nombre": "Desarrollo de Aplicaciones I",
+      "anio": "4° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.082",
+          "nombre": "Aplicaciones Interactivas"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.141",
+      "nombre": "Seguridad de Procesos y Aplicaciones",
+      "anio": "4° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.210",
+          "nombre": "Proceso De Desarrollo De Software"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.217",
+      "nombre": "Ciencia de Datos",
+      "anio": "4° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.209",
+          "nombre": "Ingeniería De Datos I"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.220",
+      "nombre": "Tendencias Tecnológicas",
+      "anio": "4° Año",
+      "cuatrimestre": "1° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "4",
+      "nombre": "Optativa IV",
+      "anio": "4° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.218",
+      "nombre": "Desarrollo de Aplicaciones II",
+      "anio": "4° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [
+        {
+          "codigo": "3.4.082",
+          "nombre": "Aplicaciones Interactivas"
+        }
+      ],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.135",
+      "nombre": "Tecnología e Innovación",
+      "anio": "4° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "3.4.221",
+      "nombre": "Negocios Tecnológicos",
+      "anio": "4° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    },
+    {
+      "codigo": "2.3.056",
+      "nombre": "Derecho Informático",
+      "anio": "4° Año",
+      "cuatrimestre": "2° Cuatrimestre",
+      "correlativas_anteriores": [],
+      "correlativas_posteriores": []
+    }
+  ]
+}
